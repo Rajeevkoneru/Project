@@ -1,1 +1,2 @@
-# Here i am putting my explored ipynb file 
+# Here i have putted my explored ipynb file .
+
